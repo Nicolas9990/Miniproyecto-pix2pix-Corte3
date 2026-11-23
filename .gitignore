@@ -1,0 +1,7 @@
+# Modelos entrenados: pesan >200 MB y GitHub no acepta archivos de mas de 100 MB
+*.pth
+resultados/checkpoints/
+
+# Datos locales de Colab
+datos/fotos/
+.ipynb_checkpoints/
