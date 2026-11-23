@@ -3,11 +3,11 @@
 Miniproyecto 3 del curso de Redes Neuronales y Deep Learning (UAO). Entrenamos una red generativa condicional (cGAN, arquitectura **Pix2Pix**) en **PyTorch** que recibe un bosquejo de bordes y genera la fotografía completa correspondiente.
 
 ## Integrantes
-- _(nombre – usuario de GitHub)_
-- _(nombre – usuario de GitHub)_
-- _(nombre – usuario de GitHub)_
-- _(nombre – usuario de GitHub)_
-- _(nombre – usuario de GitHub)_
+- David Astudillo — [Rbvtt](https://github.com/Rbvtt)
+- Daniel Cárdenas — [danikidsz](https://github.com/danikidsz)
+- Nicolás Rodríguez — [Nicolas9990](https://github.com/Nicolas9990)
+- Axl Núñez — [axlnunez-sketch](https://github.com/axlnunez-sketch)
+- Santiago Osorio — [rrolface](https://github.com/rrolface)
 
 ## Dataset
 - Fotografías de paisajes de la carpeta compartida en Drive `Dataset_CycleGAN_Pintura_Fotografia` (carpetas `trainB_Fotografias`, `valB_Fotografias` y `testB_Fotografias`, ≈170 imágenes).
